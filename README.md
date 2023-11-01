@@ -2,11 +2,8 @@
 <h3 align="center">Web developer, DevOps Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indika02&label=Profile%20views&color=0e75b6&style=flat" alt="indika02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indika02&theme=" alt="indika02" /></a> </p>
-
 - 🔭 I’m currently working on [Siyathra E learning management system](https://github.com/indika02/Group-project3.2.git)
 - 🌱 I’m currently learning **MERN Stack Web development, Selenium**
-
 - 📫 How to reach me **indikasenarathna2000i@gmail.com**
 - 👨‍💻 All of my projects are available at **indika02.github.io**
 - 📄 Know about my experiences **indika02.github.io**
@@ -44,8 +41,6 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indika02&layout=compact&theme=dark" alt=indika02 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=indika02&show_icons=true&locale=en&theme=dark" alt="indika02" /></p>
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=indika02&theme=dark" alt="indika02" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
@@ -58,4 +53,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indika02&theme=algolia" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=indika02&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=indika02&theme=react"/>
