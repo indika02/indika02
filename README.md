@@ -47,5 +47,3 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indika02&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indika02&theme=algolia" height="180em" />
 </div>
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=indika02&theme=react"/>
