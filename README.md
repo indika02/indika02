@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Indika</h1>
-<h3 align="center">Web developer, DevOps Enthusiast, Software Quality Assuarance, System Administration</h3>
+<h3 align="center">Web developement, DevOps, Software Quality Assuarance, System Administration</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indika02&label=Profile%20views&color=0e75b6&style=flat" alt="indika02" /> </p>
 
 - 🔭 I’m currently working on [Siyathra E learning management system](https://github.com/indika02/Group-project3.2.git)
