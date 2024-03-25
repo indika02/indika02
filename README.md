@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Siyathra E learning management system](https://github.com/indika02/Group-project3.2.git)
 - 🌱 I’m currently learning **Web development, Automation Testing and DevOps engineering**
-- 📫 How to reach me **[My portFolio](https://indika02.github.io/portfolio02/)**
+- 📫 How to reach me **[My Portfolio](https://indika02.github.io/portfolio02/)**
 
 <div> <a href="https://twitter.com/indika011" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/indikasenarathna" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
