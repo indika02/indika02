@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indika02&label=Profile%20views&color=0e75b6&style=flat" alt="indika02" /> </p>
 
 - 🔭 I’m currently working on [Siyathra E learning management system](https://github.com/indika02/Group-project3.2.git)
-- 🌱 I’m currently learning **Web development, Automation Testing and DevOps**
+- 🌱 I’m currently learning **Web development, Automation Testing and DevOps engineering**
 - 📫 How to reach me **[My portFolio](https://indika02.github.io/portfolio02/)**
 
 <div> <a href="https://twitter.com/indika011" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -34,12 +34,7 @@
 </p>
 
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indika02&layout=compact&theme=dark" alt=indika02 />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=indika02&theme=dark" alt="indika02" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/indika02">
 
