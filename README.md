@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **QA Engineer**
 
-- 🌱 I’m currently learning **Mobile App automation and CI/CD**
+- 🌱 I’m currently learning **Test automation and CI/CD**
 
 - 💬 Ask me about **Software Testing**
 
